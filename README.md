@@ -20,6 +20,7 @@ This program includes the following features:
 - Identification of the winning bidder with the highest bid above the randomly generated winning bid
 
 ## Python Features
+
 This program utilizes the following Python features:
 
 - random module for generating a random winning bid
@@ -37,4 +38,5 @@ This program utilizes the following Python features:
 - The program will output the name and the bid of the winner.
 
 ## Test Run
-![9_undercover_auction](https://user-images.githubusercontent.com/29802859/229309788-4b29867a-18f3-4bb0-a374-6af25bb86547.gif)
+
+![Undercover Auction](https://user-images.githubusercontent.com/29802859/229309788-4b29867a-18f3-4bb0-a374-6af25bb86547.gif)
