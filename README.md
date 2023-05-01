@@ -40,3 +40,11 @@ This program utilizes the following Python features:
 ## Test Run
 
 ![Undercover Auction](https://user-images.githubusercontent.com/29802859/229309788-4b29867a-18f3-4bb0-a374-6af25bb86547.gif)
+
+## Learn More
+
+I've written a detailed article explaining how this game works and how to run it step-by-step on Medium. Check it out here: [Undercover Auction: A Python Game to Test Your Bidding Skills](https://ajbrohi.medium.com/undercover-auction-a-python-game-to-test-your-bidding-skills-88fc9d9b010c)
+
+You can also follow my coding journey on my coding journal [From Beginner to Pro: A Python Project Journal of Learning and Innovation](https://medium.com/@ajbrohi/from-beginner-to-pro-a-python-project-journal-of-learning-and-innovation-60ede797a9c3), where I share my all projects article.
+
+Thank you for checking out my project!
